@@ -34,3 +34,22 @@ Open **Command Prompt** and run:
 
 ```bash
 git clone https://github.com/lw-108/Text-editr.git
+```
+
+### ✅ Step 2 — Open the Project Folder
+
+Navigate into the folder:
+
+```bash
+cd Text-editr
+```
+
+### ✅ Step 3 — Launch the App
+
+Open File Explorer and go to:
+
+```bash
+Text-editr/dist/editor.exe
+```
+
+
