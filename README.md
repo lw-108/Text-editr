@@ -7,6 +7,6 @@
 lw's Editor - Lightweight Text Editor
 
 >>> How to run this on windows?
->>> run "git clone https://github.com/lw-108/Text-editr.git"
->>> in File explorer open Text-editr/dist/editor.exe
->>> its done.
+run "git clone https://github.com/lw-108/Text-editr.git"
+in File explorer open Text-editr/dist/editor.exe
+its done.
