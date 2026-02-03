@@ -29,7 +29,7 @@ FONT = ("Cascadia Code", 12)
 # MAIN WINDOW
 # ==========================================
 root = tk.Tk()
-root.title("Minimal Black VS Code IDE")
+root.title("lw's Editor - Lightweight Text Editor")
 root.geometry("1350x780")
 root.config(bg=BG)
 
